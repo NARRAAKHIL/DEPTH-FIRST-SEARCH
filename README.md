@@ -74,8 +74,6 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <hr>
 
 ```
-## Name : D.B.V.SAI GANESH
-## Reg No: 212223240025
 
 from collections import deque
 from collections import defaultdict
